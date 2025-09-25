@@ -4,4 +4,4 @@ This project is an HR Analytics Dashboard focused on diagnosing a high organizat
 The analysis uses data visualization to pinpoint critical retention risks. Key findings show disproportionate turnover in the HR and R&D departments, and a significant flight risk within the 25-34 age group. The dashboard also provides insights into job satisfaction and workforce demographics to inform targeted HR strategies.
 
 Dataset 
-< a href ="https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?gid=2089618187#gid=2089618187">DataSet</a>
+<a href = "https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?gid=2089618187#gid=2089618187">DataSet</a>
