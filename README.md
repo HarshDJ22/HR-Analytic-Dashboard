@@ -9,11 +9,9 @@ DataSet Used
 
 Question (KPIS)
 
--Primary Summary KPIs
-
--Detailed Attrition and Demographic KPIs
-
--Job Satisfaction Rating KPI
+- Primary Summary KPIs
+- Detailed Attrition and Demographic KPIs
+- Job Satisfaction Rating KPI
 
 Dashboard Interaction <a href = "https://public.tableau.com/app/profile/harsh.jethwa6836/viz/HRANALYTICSDASHBOARD_17571487755290/HRANALYSTICSDASHBOARD?publish=yes">View Dashboard</a>
 
