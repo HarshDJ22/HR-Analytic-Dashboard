@@ -22,3 +22,8 @@ Process
 - Data Modeling
 - Dashboard Design
 - Interactivity
+
+DashBoard
+
+C:\Users\Hiral\OneDrive\Pictures\Screenshots
+
