@@ -16,3 +16,11 @@ Question (KPIS)
 -Job Satisfaction Rating KPI
 
 Dashboard Interaction <a href = "https://public.tableau.com/app/profile/harsh.jethwa6836/viz/HRANALYTICSDASHBOARD_17571487755290/HRANALYSTICSDASHBOARD?publish=yes">View Dashboard</a>
+
+Process
+- Project Objective
+- Data Collection
+- Data Cleaning & Preparation
+- Data Modeling
+- Dashboard Design
+- Interactivity
